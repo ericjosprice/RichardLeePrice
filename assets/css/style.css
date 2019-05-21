@@ -1,0 +1,55 @@
+/* sticky footer */
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .content {
+    min-height: 100%;
+  }
+  .content-inside {
+    padding: 0;
+    padding-bottom: 50px;
+  }
+/* end sticky footer */
+body {
+    background-image: url(../../assets/images/dust_scratches.png);
+    
+}
+
+
+#navP {
+    margin-top: -10px;
+}
+
+#navbarNav {
+    margin-left:100px;
+}
+
+.nav-link {
+    border-right:1px solid #d3d3d347;
+    padding: 0;
+}
+
+#noBorder {
+    border:none;
+}
+
+
+
+footer {
+    border-top:1px solid #f8f9fa;
+    background:#dcdedf;
+    text-align: center;
+    margin-bottom:0;
+    height: 24px;
+}
+footer p {
+    color:gray;
+    font-size: 8px;
+}
+/* contact page css */
+.contact {
+    margin:auto;
+    padding: auto;
+    text-align: center;
+}
